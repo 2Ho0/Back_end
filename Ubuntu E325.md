@@ -1,4 +1,4 @@
-[##_Image|kage@b3I795/btq9pCX1C7f/EZdy2Ob1KxgUDQolocc681/img.png|alignCenter|data-origin-width="726" data-origin-height="395" width="445" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/68044527/126106928-61ac6d6f-f7fd-40cc-9693-457561b8a83c.png)
 
 우분투 리눅스에서 E325는 실행하려는 프로그램이 비정상적인 종료로 .swp 파일이 남겨져 있을 때 발생하는 오류이다.
 
